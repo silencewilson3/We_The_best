@@ -2,9 +2,9 @@ const { cmd } = require('../command');
 const config = require('../config');
 
 cmd({
-    pattern: "owner",
+    pattern: "SILENCE WILSON",
     react: "✅", 
-    desc: "Get owner number",
+    desc: "27721305086",
     category: "main",
     filename: __filename
 }, 
