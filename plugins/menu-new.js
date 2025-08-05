@@ -11,7 +11,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const menuCaption = `╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
+        const menuCaption = `╭━━━〔 *${WE THE BEST©️}* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 👑 Owner : *WE THE BEST©️*
 ┃★╰──────────────
